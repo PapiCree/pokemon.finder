@@ -1,0 +1,49 @@
+body {
+    background-image:url(img/rainbow.jpg); 
+    font-family: sans-serif;
+}
+    background-color: #28ebd5
+.col{ 
+    margin:0.5%; 
+    padding:2px;
+    background:grey;
+    height:95%;
+    } 
+                                                                                   
+h1{                                                                  
+   color:cyan;                                                          
+   background:darkorange;                                    
+   padding: 30px;
+                }                                        
+li{
+    color:cyan;
+    background: cyan;
+    padding:5px;
+    margin:5px;
+    width:200px;
+}
+
+.logo{
+width:50%;
+}
+
+.column{
+    background: grey;
+    padding:5px;
+    margin:5px;
+    float:left;
+}
+
+.column.left{
+    width:20%;
+}
+
+.column.right{
+    width:50%;
+}
+.button{
+    background: lightcyan;
+    padding:10px;
+    margin:10px;
+    width:300px;
+} 
